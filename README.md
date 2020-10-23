@@ -2,14 +2,11 @@
 
 
 
-
-
 <div align=right>
 
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
 
 
-​	
   </div>
 
 ### I am a student who studies hard to become a programmer. 
@@ -32,7 +29,7 @@
 
 
 
-</br></br>
+</br>
 
 
 
@@ -43,7 +40,7 @@
 - Build Project Experience ⌨️
 - Becoming Programmar 🔥
 
-</br></br>
+
 
 ---
 
