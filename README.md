@@ -21,11 +21,11 @@
 
 #### **🌱 I’m currently learning ...**
 
-- **React 🌐**
-- **TypeScript 🟦**
-- **VanillaJS 🍨**
-- **BlockChain ⛓**
-- **Problem Solving with python, C++**
+- React 🌐
+- TypeScript 🟦
+- VanillaJS 🍨
+- BlockChain ⛓
+- Problem Solving with python, C++
 
 
 
