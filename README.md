@@ -9,7 +9,7 @@
 
   </div>
 
-### I am a student who studies hard to become a programmer. 
+### I am a student who studies hard to become a programmer. 😃
 
 </br>
 
