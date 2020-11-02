@@ -24,7 +24,7 @@
 - TypeScript 🟦
 - VanillaJS 🍨
 - BlockChain ⛓
-- Problem Solving with python, C++
+- Problem Solving with Python, C++
 
 
 
