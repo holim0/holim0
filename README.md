@@ -25,6 +25,7 @@
 - VanillaJS 🍨
 - BlockChain ⛓
 - Problem Solving with Python, C++
+- Node JS
 
 
 
@@ -35,9 +36,14 @@
 #### **🎯 My Current goals...**
 
 - Making movie rating site with React, TypeScript / Firebase or MongoDB :hammer:
+
 - 1 commit per day 👍🏻
+
 - Build Project Experience ⌨️
+
 - Becoming Programmar 🔥
+
+  
 
 
 
