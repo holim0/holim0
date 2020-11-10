@@ -25,7 +25,7 @@
 - VanillaJS 🍨
 - BlockChain ⛓
 - Problem Solving with Python, C++
-- Node JS
+- Node JS, express
 - Klaytn
 
 
