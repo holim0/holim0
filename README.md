@@ -20,7 +20,7 @@
 
 #### **🌱 I’m currently learning ...**
 
-- React 🌐
+- React 🌐 , Redux
 - TypeScript 🟦
 - VanillaJS 🍨
 - BlockChain ⛓
