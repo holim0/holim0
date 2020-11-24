@@ -14,6 +14,8 @@
 
 [![Heeje's github stats](https://github-readme-stats.vercel.app/api?username=holim0)](https://github.com/anuraghazra/github-readme-stats)
 
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=holim0)](https://solved.ac/holim0)
+
 
 
 
