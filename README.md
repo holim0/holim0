@@ -29,7 +29,6 @@
 - Problem Solving with Python, C++
 - Node JS, Express
 - Klaytn
-- GraphQL
 
 
 </br>
