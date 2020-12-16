@@ -29,7 +29,7 @@
 - Problem Solving with Python, C++
 - Node JS, Express
 - Klaytn
-
+- Java
 
 </br>
 
