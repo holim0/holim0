@@ -23,6 +23,7 @@
 #### **🌱 I’m currently learning ...**
 
 - React 🌐 , Redux
+- Next JS
 - TypeScript 🟦
 - VanillaJS 🍨
 - BlockChain ⛓
