@@ -42,6 +42,8 @@
 
 - 1 commit per day 👍🏻
 
+- velog Writing
+
 - Build Project Experience ⌨️
 
 - Becoming Programmar 🔥
