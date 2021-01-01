@@ -42,7 +42,7 @@
 
 - 1 commit per day 👍🏻
 
-- velog Writing
+- Velog Writing
 
 - Build Project Experience ⌨️
 
