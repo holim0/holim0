@@ -26,7 +26,7 @@
 - Next JS
 - TypeScript 🟦
 - VanillaJS 🍨
-- BlockChain ⛓
+- BlockChain ⛓, Ethereum
 - Problem Solving with Python, C++
 - Node JS, Express
 - Klaytn
