@@ -40,6 +40,8 @@
 
 - Making movie rating site with React, TypeScript / Firebase or MongoDB :hammer:
 
+- Study GraphQl, Apollo
+
 - 1 commit per day 👍🏻
 
 - Velog Writing
