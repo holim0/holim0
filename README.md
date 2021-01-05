@@ -40,7 +40,7 @@
 
 - Making movie rating site with React, TypeScript / Firebase or MongoDB :hammer:
 
-- Study GraphQl, Apollo
+- Study GraphQL, Apollo
 
 - 1 commit per day 👍🏻
 
