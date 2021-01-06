@@ -22,7 +22,7 @@
 
 #### **🌱 I’m currently learning ...**
 
-- React 🌐 , Redux
+- React 🌐 , Redux, MobX
 - Next JS
 - TypeScript 🟦
 - VanillaJS 🍨
