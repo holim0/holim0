@@ -17,8 +17,11 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=holim0)](https://solved.ac/holim0)
 
 
+#### **⌨️ My Current Project...**
 
+- GongGus Project : https://www.gonggus.cf
 
+</br>
 
 #### **🌱 I’m currently learning ...**
 
@@ -52,9 +55,6 @@
 
   </br>
 
-#### **⌨️ My Current Project...**
-
-- GongGus Project : https://www.gonggus.cf
 
 ---
 
