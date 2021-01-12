@@ -41,7 +41,6 @@
 
 #### **🎯 My Current goals...**
 
-- Making movie rating site with React, TypeScript / Firebase or MongoDB :hammer:
 
 - Study GraphQL, Apollo
 
