@@ -30,10 +30,10 @@
 - Next JS
 - TypeScript 🟦
 - VanillaJS 🍨
-- BlockChain ⛓, Ethereum
+- BlockChain ⛓, Ethereum, klaytn
 - Problem Solving with Python, C++
 - Node JS, Express
-- Klaytn
+
 
 
 </br>
