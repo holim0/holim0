@@ -20,6 +20,7 @@
 #### **⌨️ My Current Project...**
 
 - GongGus Project : https://www.gonggus.cf
+- Trace Project : https://www.jaggutrace.com/ (work in progress...🛠)
 
 </br>
 
