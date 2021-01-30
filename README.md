@@ -16,6 +16,7 @@
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=holim0)](https://solved.ac/holim0)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=holim0)](https://solved.ac/holim0/)
 
 #### **⌨️ My Current Project...**
 
