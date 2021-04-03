@@ -33,7 +33,6 @@
 - VanillaJS 🍨
 - BlockChain ⛓, Ethereum, klaytn
 - Problem Solving with Python, C++, JavaScript
-- Node JS, Express
 
 
 
