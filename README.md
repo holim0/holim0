@@ -41,8 +41,6 @@
 #### **🎯 My Current goals...**
 
 
-- Study 
-
 - 1 commit per day 👍🏻
 
 - Velog Writing
