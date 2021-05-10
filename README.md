@@ -28,6 +28,7 @@
 - Next JS
 - TypeScript 🟦
 - VanillaJS 🍨
+- GraphQL, Apollo
 - BlockChain ⛓, Ethereum, klaytn
 - Problem Solving with Python, C++, JavaScript
 
@@ -40,15 +41,13 @@
 #### **🎯 My Current goals...**
 
 
-- Study GraphQL, Apollo
+- Study 
 
 - 1 commit per day 👍🏻
 
 - Velog Writing
 
-- Build Project Experience ⌨️
 
-- Becoming Programmar 🔥
 
   </br>
   
