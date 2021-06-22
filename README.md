@@ -44,6 +44,7 @@
 - 1 commit per day 👍🏻
 
 - Velog Writing
+- AI...
 
 
 
