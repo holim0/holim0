@@ -32,17 +32,6 @@
 </br>
 
 
-
-#### **🎯 My Current goals...**
-
-
-- 1 commit per day 👍🏻
-
-- Velog Writing
-- AI...
-
-
-
   </br>
   
   
