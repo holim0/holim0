@@ -21,6 +21,7 @@
 - React 🌐
 - Redux, MobX
 - Next JS
+- Vue.js
 - TypeScript 🟦
 - VanillaJS 🍨
 - GraphQL, Apollo
