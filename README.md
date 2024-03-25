@@ -18,16 +18,10 @@
 
 #### **🌱 I’m currently learning ...**
 
-- React 🌐
-- Redux, MobX
+- React
 - Next JS
-- Vue.js
-- TypeScript 🟦
-- VanillaJS 🍨
-- GraphQL, Apollo
-- BlockChain ⛓, Ethereum, klaytn
-- Problem Solving with Python, C++, JavaScript
-
+- JavaScript
+- TypeScript
 
 
 </br>
