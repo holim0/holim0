@@ -14,7 +14,7 @@
 
 </br>
 
-#### **🌱 I’m currently Working ...**
+#### **🔥 I’m currently Working ...**
 
 - React
 - Next JS
