@@ -17,7 +17,7 @@
 #### **🔥 I’m currently Working ...**
 
 - React
-- Next JS
+- Next.js
 - JavaScript
 - TypeScript
 
