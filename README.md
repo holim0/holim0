@@ -26,6 +26,8 @@
 
 </br>
 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=holim0)](https://velog.io/@holim0)
+
 
   </br>
   
