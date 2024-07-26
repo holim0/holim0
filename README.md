@@ -14,13 +14,15 @@
 
 </br>
 
-#### **🔥 I’m currently Working ...**
+#### **🔥 I’m currently Working & Learning ...**
 
 - React
 - Next.js
 - JavaScript
 - TypeScript
-
+- Zustand
+- emotion
+- styled-components
 
 </br>
 
