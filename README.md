@@ -25,6 +25,7 @@
 - styled-components
 
 </br>
+
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=holim0)](https://github.com/eungyeole/velog-readme-stats)
 
   </br>
