@@ -10,7 +10,7 @@
 
 </br>
 
-[![Heeje's github stats](https://github-readme-stats.vercel.app/api?username=holim0)](https://github.com/anuraghazra/github-readme-stats)
+[![Velog's github stats](https://github-readme-stats.vercel.app/api?username=holim0)](https://velog-readme-stats.vercel.app/api/redirect?name=holim0)
 
 </br>
 
@@ -26,7 +26,7 @@
 
 </br>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=holim0)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=holim0)](https://velog-readme-stats.vercel.app/api/redirect?name=holim0)
 
   </br>
   
